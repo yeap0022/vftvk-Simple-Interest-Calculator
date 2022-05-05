@@ -9,11 +9,16 @@ h1{color:grey;font-family:verdana}
     align: center;  
 }
 
-.input-container{
+.container {
+  max-width: 260px;
+  margin: 0 auto;
+}
+
+label {
+  margin: 10px 0;
   display: block;
 }
 
-.input-label{
-  width: 80px;
-  display: inline-block;
+label input {
+  float: right;
 }
