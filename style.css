@@ -8,5 +8,19 @@ h1{color:grey;font-family:verdana}
     border-radius: 25px;
     align: center;
 }
+.input-container{
+  display: block;
+}
 
+.input-label{
+  width: 80px;
+  display: inline-block;
+}
 
+.text-input{
+  margin-bottom: 15px;
+}
+
+.button-input{
+  margin-left: 85px;
+}
